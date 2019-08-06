@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+h2 {
+  font-style: italic;
+}
+
+p {
+  font-weight: lighter;
+}
+
+img {
+  border-style: solid;
+
+}
+
+a {
+  color: red;
+}
